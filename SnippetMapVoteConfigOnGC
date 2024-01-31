@@ -1,3 +1,7 @@
+// Snippet of our plugin configuration located in on "config.json" file for SquadJS
+// Snippet of our plugin configuration located in on "config.json" file for SquadJS
+// Snippet of our plugin configuration located in on "config.json" file for SquadJS
+
 {
       "plugin": "MapVote",
       "enabled": true,
