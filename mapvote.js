@@ -1406,9 +1406,9 @@ export default class MapVote extends DiscordBasePlugin {
 
         this.verbose(1, 'Pulling updated layer list...');
         const response = await axios.get(
-            'https://raw.githubusercontent.com/Squad-Wiki/squad-wiki-pipeline-map-data/master/completed_output/_Current%20Version/finished.json'
+            'https://raw.githubusercontent.com/Buff-oG/Galactic-Contention-Layer-Scrape/main/Scrape/gc.json'
         );
-
+        // Fetches Galatic Contention Scrape file
         for (const layer of response.data.Maps) {
             if (!Layers.layers.find((e) => e.layerid == layer.rawName)) Layers.layers.push(new Layer(layer));
         }
@@ -1643,6 +1643,19 @@ const translations = {
     // 'Irregular Militia Forces': "MIL",
     // 'Middle Eastern Alliance': "MEA",
     // 'Insurgent Forces': "INS",
-    'Russian Airborne Forces': "VDV",
+    // 'Russian Airborne Forces': "VDV",
+    'Grand Army Of The Republic': "GAR",
+    'Confederacy of Independent Systems': "CIS",
+    'GUNGANS': "GUNGANS",
+    'TUSKENS' : "TUSKS",
+    'SARIM TUSKENS' : "SARIM TUSKS",
+    'Clone Rebellion' : "CREB",
+    'Galactic Empire' : "GE",
+    'PURGE' : "PURGE",
+    'COMMANDOS' : "GAR Commandos",
+    'CIVILIANS' : "CIVS",
+    'WOOKIES' : "WOOKIES",
+    'WAMPAS' : "WAMPAS",
+    'TWILEKS' : "TWILEKS",
     'Unknown': "Unk"
 }
