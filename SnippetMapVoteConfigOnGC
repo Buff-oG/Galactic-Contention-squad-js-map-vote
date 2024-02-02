@@ -1,6 +1,5 @@
 // Snippet of our plugin configuration located in on "config.json" file for SquadJS
-// Snippet of our plugin configuration located in on "config.json" file for SquadJS
-// Snippet of our plugin configuration located in on "config.json" file for SquadJS
+// For the Line 46. Please make sure to a put a coma " , " if your MapVote Plugin config is not the last entry in the SquadJS json file.
 
 {
       "plugin": "MapVote",
