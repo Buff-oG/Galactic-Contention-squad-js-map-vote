@@ -26,7 +26,8 @@
         "/GLOPS/",
         "/GC_KaminoTraining/",
         "/TDM/",
-        "/GC_Yavin4_INV_V4/"
+        "/GC_Yavin4_INV_V4/",
+        "/GC_BespinPlatforms/"
       ],
       "layerLevelWhitelist": [],
       "applyBlacklistToWhitelist": true,
