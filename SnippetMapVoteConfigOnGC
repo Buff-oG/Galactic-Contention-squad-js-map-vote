@@ -26,6 +26,7 @@
         "/GLOPS/",
         "/GC_KaminoTraining/",
         "/TDM/"
+        "/GC_Yavin4_INV_V4/"
       ],
       "layerLevelWhitelist": [],
       "applyBlacklistToWhitelist": true,
