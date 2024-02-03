@@ -9,7 +9,7 @@
       "automaticVoteStart": true,
       "minPlayersForVote": 40,
       "voteWaitTimeFromMatchStart": 5,
-      "voteBroadcastInterval": 7,
+      "voteBroadcastInterval": 20,
       "hideVotesCount": false,
       "minimumVotesToAcceptResult": 1,
       "instantSeedingModePlayerCount": 5,
