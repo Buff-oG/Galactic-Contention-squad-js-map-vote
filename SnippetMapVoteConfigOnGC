@@ -14,7 +14,7 @@
       "minimumVotesToAcceptResult": 1,
       "instantSeedingModePlayerCount": 5,
       "nextLayerSeedingModePlayerCount": 20,
-      "numberRecentMapsToExlude": 6,
+      "numberRecentMapsToExlude": 15,
       "automaticSeedingMode": true,
       "gamemodeWhitelist": [
         "INVASION"
