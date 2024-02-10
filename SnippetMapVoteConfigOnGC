@@ -5,7 +5,7 @@
       "plugin": "MapVote",
       "enabled": true,
       "discordClient": "discord",
-      "entriesAmount": 5,
+      "entriesAmount": 6,
       "automaticVoteStart": true,
       "minPlayersForVote": 40,
       "voteWaitTimeFromMatchStart": 5,
