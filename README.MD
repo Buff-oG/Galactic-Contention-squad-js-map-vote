@@ -1,6 +1,5 @@
-======
-
-aasd
+<h1>This is discontinued</h1>
+<h3>Galactic Contention no longer use SquadJS Map vote plugin since we switched our entire configuration to matchw with Offworld Industries map vote system via unreal engine</h3>
 
 ## MapVote
 The `MapVote` plugin for squad js based on the original version https://github.com/maskedmonkyman/squad-js-map-vote
